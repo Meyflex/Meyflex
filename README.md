@@ -1,7 +1,7 @@
 #  Bonjour, je suis Mohamed Elmdimegh 
 
 
-## Étudiant en 1ʳᵉ année à L'École polytechnique de l'université Paris Sud.
+## Étudiant en 1ʳᵉ année à L'école polytechnique de l'université Paris Sud.
 
 * 📖 je suis en formation a l'École polytechnique de l'université Paris Sud pour devenir ingenieur en informatique.
 * 🍃 j'aime cree de nouvelle choses, surtout les applications web.
