@@ -1,7 +1,7 @@
 #  Bonjour, je suis Mohamed Elmdimegh 
 
 
-## Étudiant en 2eme année à L'école polytechnique de l'université Paris Sud.
+## Étudiant en 4 eme année à L'école polytechnique de l'université Paris Sud.
 
 * Je possède une maîtrise concluante des protocoles des réseaux informatiques (TCP, UDP) ainsi que les langages de développement, PHP, HTML 5, CSS3 et les langages de programmation C++, C, python et Java. De plus, je suis en autoformation pour approfondir mes connaissances en JavaScript et en DART. Ce qui me permet d'être polyvalent et d’avoir un large spectre de compétences.
 * je suis particulièrement intéressé par la programmation, le trading, et le Front-End.
