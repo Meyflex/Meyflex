@@ -13,4 +13,4 @@
 
 ## Mes coordonnées
 
-<a href="https://www.linkedin.com/in/mohamed-elmdimegh-155647216/"><img src="https://user-images.githubusercontent.com/98128042/177056614-f2a4065e-c199-4070-b243-eaa20481008b.png"  width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/elmdimegh-mohamed//"><img src="https://user-images.githubusercontent.com/98128042/177056614-f2a4065e-c199-4070-b243-eaa20481008b.png"  width="40" height="40"></a>
